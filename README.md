@@ -20,8 +20,8 @@ Install langflow and ragas:
 
 
 ```python
-!pip install langflow run
-!pip install ragas
+!pip install langflow==1.0.11
+!pip install ragas==0.1.10
 ```
 
 On the terminal, execute
