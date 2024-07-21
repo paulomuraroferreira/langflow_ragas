@@ -7,14 +7,6 @@ Clone the repository
 git clone https://github.com/paulomuraroferreira/langflow_ragas.git
 ```
 
-
-      Cell In[2], line 1
-        git clone https://github.com/paulomuraroferreira/langflow_ragas.git
-            ^
-    SyntaxError: invalid syntax
-
-
-
 Install langflow and ragas:
 
 
@@ -51,6 +43,6 @@ Run the chunking pipeline by executing the ChromaDB component:
 
 ![Langflow Image](README_files/langflow9.png)
 
-Enter the playground:
+Enter the playground and ask questions:
 
 ![Langflow Image](README_files/langflow5.png)
